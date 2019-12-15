@@ -1,4 +1,4 @@
-# Microsoft Profesional Program Data Science track 
+# Microsoft Profesional Program in Data Science 
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-## Contents 
+## Content 
 
 ###  Courses 
 1. Introduction to Data Science
